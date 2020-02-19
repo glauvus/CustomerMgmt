@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    card_view:cardCornerRadius="12dp"
+    card_view:contentPadding="6dp"
+    android:elevation="3dp"
+    android:paddingBottom="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentStart="true">
+
+            <TextView
+                android:id="@+id/id_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:paddingBottom="6dp"
+                android:layout_gravity="start"/>
+
+            <TextView
+                android:id="@+id/lastName_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:paddingBottom="6dp"
+                android:layout_gravity="start"/>
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/status_circle_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/status_circle"/>
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

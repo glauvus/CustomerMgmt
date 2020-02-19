@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/view_profile"
+        android:title="@string/view_profile"
+        />
+
+    <item
+        android:id="@+id/message_client"
+        android:title="@string/message_client"
+        />
+
+    <item
+        android:id="@+id/call_client"
+        android:title="@string/call_client"
+        />
+
+    <item
+        android:id="@+id/delete_client"
+        android:title="@string/delete_client"
+        />
+
+</menu>

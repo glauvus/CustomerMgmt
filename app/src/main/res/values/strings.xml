@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Computer Technics</string>
+    <string name="id_field">Κωδικός</string>
+    <string name="lastName_field">Επίθετο</string>
+    <string name="firstName_field">Όνομα</string>
+    <string name="address_field">Διεύθυνση</string>
+    <string name="city_field">Πόλη</string>
+    <string name="phone_field">Τηλέφωνο 1</string>
+    <string name="phone2_field">Τηλέφωνο 2</string>
+    <string name="device_field">Συσκευή</string>
+    <string name="serialNumber_field">s/n</string>
+    <string name="comments">Παρατηρήσεις</string>
+    <string name="add_button">Προσθήκη</string>
+    <string name="view_profile">Προβολή προφίλ</string>
+    <string name="message_client">Μήνυμα για παραλαβή</string>
+    <string name="call_client">Κλήση</string>
+    <string name="delete_client">Διαγραφή</string>
+    <string name="toast_added">Προστέθηκε!</string>
+    <string name="toast_deleted">Διαγράφηκε!</string>
+    <string name="toast_no_such_entry">Δεν βρέθηκε τέτοια καταχώρηση!</string>
+    <string name="toast_sms_sent">Στάλθηκε!</string>
+    <string name="toast_sms_not_sent">Αποτυχία αποστολής!</string>
+    <string name="toast_service_unavailable">Δεν έχει σήμα!</string>
+    <string name="toast_sms_delivered">Παραδόθηκε!</string>
+    <string name="toast_sms_not_delivered">Δεν παραδόθηκε!</string>
+    <string name="menu_search">Αναζήτηση</string>
+    <string name="list_view_title">Σημερινά ή μη ενημερωμένα περιστατικά</string>
+    <string name="bag">Τσάντα</string>
+    <string name="power_supply">Τροφοδοτικό</string>
+    <string name="battery">Μπαταρία</string>
+</resources>

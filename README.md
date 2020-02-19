@@ -7,3 +7,4 @@ Its aim is to support customer management in a mobile and laptop repair store wi
 * Track current repair cases.
 * Notify customer for a closed case.
 
+Originally designed to use the local SQLite database, but can be easily updated to use an external database.
